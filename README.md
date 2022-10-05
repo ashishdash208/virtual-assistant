@@ -1,4 +1,4 @@
-# VAVI
+# Virtual Assistant
 
 ## **Jyoti** : Assistant for blind
 
